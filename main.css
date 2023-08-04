@@ -20,11 +20,21 @@
 }
 
 .aprovado {
+    color: #fff;
     background-color: #009432;
+    font-weight: bold;
+    padding: 8px;
+    border-radius: 3px;
+    border: none;
 }
 
 .reprovado {
+    color: #fff;
     background-color: red;
+    font-weight: bold;
+    padding: 8px;
+    border-radius: 3px;
+    border: none;
 }
 
 body {
@@ -95,4 +105,3 @@ table td {
 table td img {
     height: 30px;
 }
-
